@@ -1,4 +1,4 @@
-# destini
+# Destini
 
 A new Flutter application.
 

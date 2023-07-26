@@ -1,6 +1,6 @@
 # Destini
 
-A new Flutter application.
+Destini is an interactive storytelling app developed using the Flutter framework, designed to provide users with engaging and immersive story experiences. The app presents users with a series of choices at key points throughout the narrative, allowing them to influence the direction and outcome of the story. By combining captivating narratives with user-driven decision-making, Destini offers a unique and personalized reading experience.
 
 ## Getting Started
 
